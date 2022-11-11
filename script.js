@@ -1,7 +1,7 @@
 
 var board;
-var playerO = "O";
-var playerX = "X";
+var playerO = "0";
+var playerX = "1";
 var currPlayer = playerO;
 var gameOver = false;
 
